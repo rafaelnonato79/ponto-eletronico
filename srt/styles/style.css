@@ -56,6 +56,7 @@ body{
     width: 50%;
     height: 25px;
     margin-left: 50px;
+    margin-top: 10px;
     border: none;
     border-radius: 5px;
     font-size: 12pt;
@@ -98,3 +99,13 @@ body{
 .card span{
     background-color: white;
 }
+.senha{
+    position: relative;
+}
+.visivel-senha{
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+    cursor: pointer;
+  }
