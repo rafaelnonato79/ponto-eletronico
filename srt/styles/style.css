@@ -79,7 +79,7 @@ body{
   .card h1{
     font-family: NunitoSans;
     margin-top: 15px;
-    margin-bottom: 30PX;
+    margin-bottom: 3rem;
   }
 
   .card p{
@@ -88,7 +88,7 @@ body{
     font-family: 'Roboto', sans-serif;
     font-family: 'Roboto Mono', monospace;
     font-family: 'Sometype Mono', monospace;
-    font-size: 30px;
+    font-size: 2rem;
 }
 
 .card img{
